@@ -68,8 +68,3 @@ This project provided insights into the Electric Vehicle market through data scr
 - Expand the dataset with more EV models and updated market information.
 - Analyze EV adoption and market trends over time.
 
-
-
-Data Analytics Learner | Python | EDA | SQL | Power BI
-
-**GitHub:** [Gauri-V12](https://github.com/Gauri-V12)
